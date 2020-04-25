@@ -1,6 +1,6 @@
 # teaching_in_GrowthHackers
 
-teaching_in_GrowthHackers is a repository for the session files I thought in GrowthHackers SNU in 2019 Fall semester.
+teaching_in_GrowthHackers is a repository for the session files I tought in GrowthHackers SNU in 2019 Fall semester.
 
 ## Information
 
