@@ -16,5 +16,6 @@ Session 03 : EDA, Data visualization
 ```
 
 ## License
-[GrowthHackers](https://ghmkt.kr)\n
+[GrowthHackers](https://ghmkt.kr)
+
 [BokyungChoi](https://github.com/BokyungChoi)
